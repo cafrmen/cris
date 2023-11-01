@@ -1428,6 +1428,12 @@ animation06
     visibility: hidden;
 }
 
+h3 {
+    margin: 12px;
+    max-width: 500px;
+    text-align: center;
+}
+
 .birthday-gift {
     position: relative;
     display: flex;
