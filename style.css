@@ -1269,7 +1269,7 @@ animation08
 .animation08 div:nth-of-type(1) {
     width: 100%;
     height: 100%;
-    background: #242324;
+    background: #E7F0DC;
 }
 
 .animation08 div:nth-of-type(2) {
@@ -1521,11 +1521,11 @@ input#click {
 .wishes {
     position: absolute;
     transition: .5s;
-    color: #f2f3df;
-    font-size: 37px;
+    color: #EFBC9B;
+    font-size: 27px;
     text-align: center;
     z-index:-1;
-    left:5px;
+    left: -1px;
 }
 
 #click:checked ~ .wishes {
@@ -1671,6 +1671,6 @@ input#click {
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
-    color: #f2f3df;
+    color: #987070;
     z-index: 999;
 }
