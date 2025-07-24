@@ -1521,7 +1521,7 @@ input#click {
 .wishes {
     position: absolute;
     transition: .5s;
-    color: #EFBC9B;
+    color: #932F67;
     font-size: 27px;
     text-align: center;
     z-index:-1;
@@ -1671,6 +1671,6 @@ input#click {
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
-    color: #987070;
+    color: #932F67;
     z-index: 999;
 }
